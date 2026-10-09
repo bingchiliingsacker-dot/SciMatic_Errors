@@ -18,9 +18,11 @@ Tip:
 ```
 
 # 🏷️ Classifications 🏷️
-- **🔴 Keter**: Dangerous errors. If you encounter a Keter class error it probably did something messed up.
-- **🟠 Euclid**: Normal errors.
-- **⚫ Decommissioned**: Errors that are now retired.
+- **🔴 Keter**: Data corruption, destructive side effects, or severe failures.
+
+- **🟠 Euclid**: Invalid input, missing IDs, unsupported formats, and other routine errors.
+
+- **⚫ Decommissioned**: Retired error entries; no longer active in the current error system
 
 # ⚠️ Errors ⚠️
 ---
@@ -44,5 +46,5 @@ Tip:
 ## - 🛠️ From `utils/` [E0501-E0600] 🛠️
 - N/A
 
-## - 📝 User-made errors [E0601-E0800] 📝
+## - 📝 User errors [E0601-E0800] 📝
 - [[E0601]](https://github.com/bingchiliingsacker-dot/SciMatic_Errors/blob/main/errors/User-Errors[E0601-E0800]/[E0601].md)
