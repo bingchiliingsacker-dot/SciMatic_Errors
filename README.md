@@ -16,7 +16,7 @@ Tip:
 - Tips
 ```
 
-# Errors
+# ⚠️ Errors ⚠️
 ---
 ## - File Errors [E0001-E0100]
 - [[E0001]](https://github.com/bingchiliingsacker-dot/SciMatic_Errors/blob/main/errors/File-Errors[E0001-E0100]/[E0001].md)
